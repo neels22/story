@@ -2,3 +2,12 @@ Git init
 Ls -a
 
 Git status show untracked files
+
+
+Git add file name to track the file
+
+
+Git commit - m "to write the msgs"
+
+Git log to see the commits
+
