@@ -11,3 +11,10 @@ Git commit - m "to write the msgs"
 
 Git log to see the commits
 
+Git add . To add all to staging area
+
+
+Why need staging area is to figure out what to ignore and track 
+
+
+Git checkout filename to revert to old version
